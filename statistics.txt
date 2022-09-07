@@ -1,3 +1,6 @@
 - Mean and standard deviation
 - Regression
 - Bayes Theorem
+- ANOVA
+- Graphing
+- SQL
